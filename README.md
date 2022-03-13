@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm gandolh</h1>
-<h3 align="center">A student that likes coding. I am also the original developer of Rookie's Sideloader</h3>
+<h3 align="center">A student that likes coding. </h3>
 
 <p align="center"> <img src="https://avatars.githubusercontent.com/u/29356778?s=400&amp;u=501096d4e2dcd6a5e71d498b1c8074bfa7f4986e&amp;v=4" alt="Profile Views" /> </p>
 
