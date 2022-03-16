@@ -9,14 +9,14 @@
 
 <h3 align="center">GitHub Trophies 🏆</h3>
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gandolh&theme=gruvbox&no-bg=false&margin-w=15&margin-h=15&row=2&column=3&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN" alt="gandolh" />
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gandolh&theme=merko&no-bg=false&margin-w=15&margin-h=15&row=2&column=3&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN" alt="gandolh" />
 </p>
 
 <h3 align="center">GitHub Stats &#x1f4c8;</h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gandolh&theme=gruvbox&show_icons=true" alt="gandolh" width="350" height="140"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gandolh&theme=gruvbox&layout=compact&exclude_repo=Random_Casualtiess_Old&hide=html,css&langs_count=6" alt="gandolh" width="350" height="140"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gandolh&theme=gruvbox" alt="gandolh" width="350" height="140"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gandolh&theme=merko&show_icons=true" alt="gandolh" width="350" height="140"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gandolh&theme=merko&layout=compact&exclude_repo=Random_Casualtiess_Old&hide=html,css&langs_count=6" alt="gandolh" width="350" height="140"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gandolh&theme=merko" alt="gandolh" width="350" height="140"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
