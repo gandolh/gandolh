@@ -15,7 +15,7 @@
 <h3 align="center">GitHub Stats &#x1f4c8;</h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=gandolh&theme=gruvbox&show_icons=true" alt="gandolh" width="350" height="140"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gandolh&theme=gruvbox&layout=compact&hide=html,css&langs_count=6" alt="gandolh" width="350" height="140"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gandolh&theme=gruvbox&layout=compact&exclude_repo=Random_Casualtiess_Old&hide=html,css&langs_count=6" alt="gandolh" width="350" height="140"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gandolh&theme=gruvbox" alt="gandolh" width="350" height="140"/>
 </p>
 
