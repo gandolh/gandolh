@@ -4,3 +4,12 @@ Nature of code --- The coding train --- https://www.youtube.com/watch?v=6vX8wT1G
 Deep learning Complete -- Krish Naik -- https://www.youtube.com/watch?v=YFNKnUhm_-s&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi&index=2
 C++ -- Cherno -- https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb
 Videos:
+
+
+Blogs:
+http://colah.github.io/
+https://distill.pub/
+
+
+Free books:
+http://neuralnetworksanddeeplearning.com/
