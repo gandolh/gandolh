@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://avatars.githubusercontent.com/u/29356778?s=400&amp;u=501096d4e2dcd6a5e71d498b1c8074bfa7f4986e&amp;v=4" alt="Profile Views" /> </p>
 
-- 📘 I’m currently learning **NLP, Deep learning, Linux**
+- 📘 I’m currently learning **Web development**
 
-- 🔮 I want to learn in the future **Blockchain, Decentralized application, Image recognition**
+- 🔮 I want to learn in the future **Funny stuffs**
 
 <h3 align="center">GitHub Trophies 🏆</h3>
 <p align="center">
